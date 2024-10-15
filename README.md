@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about **software development**, par
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajaykumar)
 - ✉️ Email: ajaysinghsinghana@gmail.com
-- 🌐 [Portfolio Website]([https://ajaykumar.com](https://www.mygreatlearning.com/eportfolio/ravindra-singh10))
+- 🌐 [Portfolio Website](https://ajaykumar.com](https://www.mygreatlearning.com/eportfolio/ravindra-singh10))
 
 ---
 
